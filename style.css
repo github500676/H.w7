@@ -1,0 +1,12 @@
+.flex-container {
+    display:flex;
+    background-color: burlywood;
+    flex-direction:column;
+    
+}
+.flex-container  div{
+    background-color: rgb(0, 89, 255);
+    width: 100px;
+    margin: 20px;
+    
+}
